@@ -1,4 +1,7 @@
 # Camille BERNADAS
+
+*Most of my repo are private. Contact me for more info !*
+
 ## Professional
 ### Gameplay Programmer
 Currently looking for a Gameplay Programmer position; ideally near Montpellier, in the south of France.
@@ -10,18 +13,23 @@ Apprenticeship : Development of 3D apps (computer/phone/tablet, basic/AR/VR/"hol
 ### Video Games, Music
 Check out my website, [www.camillebernadas.com](https://www.camillebernadas.com), for more info.
 ### RPG
-Very active in a RolePlaying Game association, where I play (and sometimes am the GameMaster) and manage part of the Discord and overall online presence. 
+Very active in a RolePlaying Game association, where I play (and sometimes am the GameMaster) and manage part of the Discord and overall online presence. Check it out on [Facebook](https://www.facebook.com/LeSceauADes).
+
+
+## More info
+
+- 🔭 I’m currently working at IGO as an apprentice - 3D apps dev. My contract will end on the 25th of August 2023.
+- 🌱 I’m currently learning how to use Unreal Engine with C++. 
+- 📫 How to reach me: send an email with all the information I might need at "camille bernadas at gmail dot com"
+- 😄 Pronouns: he/him
+
+
 <!--
 **Camille-Bernadas/Camille-Bernadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
