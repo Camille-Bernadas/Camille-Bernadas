@@ -13,7 +13,7 @@ Apprenticeship : Development of 3D apps (computer/phone/tablet, basic/AR/VR/"hol
 ### Video Games, Music
 Check out my website, [www.camillebernadas.com](https://www.camillebernadas.com), for more info.
 ### RPG
-Very active in a RolePlaying Game association, where I play (and sometimes am the GameMaster) and manage part of the Discord and overall online presence. Check it out on [Facebook](https://www.facebook.com/LeSceauADes).
+Very active in a RolePlaying Game association, where I play (and sometimes am the GameMaster) and manage most of the Discord server. I'm coding a bot using the Disnake library to help me out. Check us out on [Facebook](https://www.facebook.com/LeSceauADes).
 
 
 ## More info
