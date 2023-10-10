@@ -18,8 +18,8 @@ Very active in a RolePlaying Game association, where I play (and sometimes am th
 
 ## More info
 
-- 🔭 I’m currently working at IGO as an apprentice - 3D apps dev. My contract will end on the 25th of August 2023.
-- 🌱 I’m currently learning how to use Unreal Engine with C++. 
+- 🔭 I’m currently working at Virtualis as a Unity VR developer. If you have an interesting project, reach out anyway !
+- 🌱 I’m currently learning how to use Unreal Engine with C++. I might take a closer look at Godot for kicks
 - 📫 How to reach me: send an email with all the information I might need at "camille bernadas at gmail dot com"
 - 😄 Pronouns: he/him
 
