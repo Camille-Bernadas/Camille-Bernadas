@@ -1,6 +1,7 @@
 # Camille BERNADAS
 
 *Most of my repo are private. Contact me for more info !*
+
 Graduated with a Master's Degree in Comp. Sci. specialized in Gameplay Programming, AI and Image Analysis at University of Montpellier, France.
 
 ## Professional
