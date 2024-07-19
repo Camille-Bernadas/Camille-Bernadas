@@ -2,11 +2,14 @@
 
 *Most of my repo are private. Contact me for more info !*
 
-Graduated with a Master's Degree in Comp. Sci. specialized in Gameplay Programming, AI and Image Analysis at University of Montpellier, France.
+2023: Graduated with a Master's Degree in Comp. Sci. specialized in Gameplay Programming, AI and Image Analysis at University of Montpellier, France.
 
 ## Professional
+### R&D Software Engineer
+Working at Virtualis, working on fixing, enhancing and creating therapeutic software.
+
 ### Gameplay Programmer
-Currently looking for a Gameplay Programmer position; ideally near Montpellier, in the south of France.
+Reach out if you have an open Gameplay Programmer position; ideally near Montpellier, in the south of France.
 
 Check out my [itch.io page](https://camille-bernadas.itch.io/). Just in case I updated it.
 ### 3D Apps Dev
