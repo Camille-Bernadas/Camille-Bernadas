@@ -18,13 +18,15 @@ Apprenticeship : Development of 3D apps (computer/phone/tablet, basic/AR/VR/"hol
 ### Video Games, Music
 Check out my website, [www.camillebernadas.com](https://www.camillebernadas.com), for more info.
 ### RPG
-Very active in a RolePlaying Game association, where I play (and sometimes am the GameMaster) and manage most of the Discord server. I'm coding a bot using the Disnake library to help me out. Check us out on [Facebook](https://www.facebook.com/LeSceauADes).
+I love TTRPGs ! With the help of my friends, with a few of us taking turns as GameMasters, we explore wondrous, terrifying and layered worlds, unravel mysteries and political intrigues, and embody the characters we invent. With magic and/or technology by our side, we face philosophical dilemmas, solve complex puzzles and sometimes let go of any ounce of strategy to just rush into battle.
+
+I created a Discord bot using the Disnake library to help organize our sessions. I'm coding a TTRPG management app to handle music, smart lights and NPC infos.
 
 
 ## More info
 
 - 🔭 I’m currently working at Virtualis as a Unity VR developer. If you have an interesting project, reach out anyway !
-- 🌱 I’m currently learning how to use Unreal Engine with C++. I might take a closer look at Godot for kicks
+- 🌱 I love learning about tech. Recently fell down the Linux rabbit hole of keyboard-centric environment optimisation (aka Vim-like navigation, TUI file manager, etc).
 - 📫 How to reach me: send an email with all the information I might need at "camille bernadas at gmail dot com"
 - 😄 Pronouns: he/him
 
